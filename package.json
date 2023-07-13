@@ -9,7 +9,7 @@
     "prettier": "prettier --write './**'",
     "build": "webpack --mode=production"
   },
-  "author": "mstrlaw",
+  "author": "Marlene Charlotte Jansch",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.9.6",
@@ -31,5 +31,13 @@
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlene-dev/orchestrator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marlene-dev/orchestrator/issues"
+  },
+  "homepage": "https://github.com/marlene-dev/orchestrator#readme"
 }
